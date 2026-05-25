@@ -23,6 +23,12 @@ Client Request → Cloud Run Service → Bigtable → Datadog Monitoring & Alert
 
 ---
 
+## Prerequisites
+
+- Datadog integration with GCP project where the Cloud Run service is hosted
+
+---
+
 ## Dashboard Features
 
 ### Cloud Run Monitoring
